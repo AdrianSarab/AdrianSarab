@@ -1,5 +1,4 @@
-Looking for a Death Star for sale. 
-LMK
+Exploring MERN Stack & Web Development 🚀
 
 <!---
 AdrianSarab/AdrianSarab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
