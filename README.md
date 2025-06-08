@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Front-end Developer</h3>
+
+- 🌱 I’m currently learning **MERN**
+
+- 📫 How to reach me **work.adriansarab@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
